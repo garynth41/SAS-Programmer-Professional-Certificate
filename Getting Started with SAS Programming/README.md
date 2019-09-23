@@ -5,3 +5,4 @@ This course is for users who want to learn how to write SAS programs to access, 
 
 Prerequisites: Learners should have experience using computer software. Specifically, you should be able to understand file structures and system commands on your operating systems and access data files on your operating systems. No prior SAS experience is needed
  
+  
