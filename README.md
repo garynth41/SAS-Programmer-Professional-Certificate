@@ -6,7 +6,7 @@ When you complete the SAS® Base Programming courses, you will have demonstrated
 
 Succesffuly Completed and Passed:
 
-1. Getting Started with SAS Programming:
+1. Getting Started with SAS Programming: https://www.coursera.org/account/accomplishments/certificate/8KM6EDALFM7B
 
 2. Doing More with SAS Programming:
 
