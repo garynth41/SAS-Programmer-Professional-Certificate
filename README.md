@@ -3,10 +3,6 @@
 #About this Professional Certificate: 
 When you complete the SAS® Base Programming courses, you will have demonstrated skills in manipulating and transforming data, combining SAS data sets, creating basic detail and summary reports using SAS procedures and identifying and correcting data, syntax and programming logic errors. These skills prepare you for the SAS® Base Programmer certification exam.
 
-# Succesffuly Completed and Passed:
-* Getting Started with SAS Programming: https://www.coursera.org/account/accomplishments/certificate/8KM6EDALFM7B
-* Doing More with SAS Programming:
-* Practical SAS Programming and Certification Review: 
 
 Launch Your Career with a SAS® Credential. Master the skills required for the SAS® Base Programmer certification.
 This course is for users who want to learn how to write SAS programs to access, explore, prepare, and analyze data. It is the entry point to learning SAS programming for data science, machine learning, and artificial intelligence. It is a prerequisite to many other SAS courses. By the end of this course, you will know how to use SAS Studio to write and submit SAS programs that access SAS, Microsoft Excel, and text data. You will know how to explore and validate data, prepare data by subsetting rows and computing new columns, analyze and report on data, export data and results to other formats, use SQL in SAS to query and join tables. 
@@ -22,3 +18,9 @@ Through innovative software and services, SAS empowers and inspires customers ar
 # Peter Styliadis
 * Senior Associate Technical Training Consultant
 * SAS Education
+
+
+# Succesffuly Completed and Passed:
+* Getting Started with SAS Programming: https://www.coursera.org/account/accomplishments/certificate/8KM6EDALFM7B
+* Doing More with SAS Programming:
+* Practical SAS Programming and Certification Review: 
