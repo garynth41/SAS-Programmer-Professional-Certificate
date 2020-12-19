@@ -22,6 +22,6 @@ Through innovative software and services, SAS empowers and inspires customers ar
 * Senior Manager
 * Education
 
-#Peter Styliadis
+# Peter Styliadis
 * Senior Associate Technical Training Consultant
 * SAS Education
